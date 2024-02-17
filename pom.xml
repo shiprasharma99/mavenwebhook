@@ -1,16 +1,6 @@
-<<<<<<< HEAD
 <project xmlns="http://maven.apache.org/POM/4.0.0" 
 	   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	 
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-=======
-
-
-
-	change
-<project xmlns="http://maven.apache.org/POM/4.0.0" 
-	   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">	
->>>>>>> 063a902 (asdfgh)
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mkyong</groupId>
 	<artifactId>CounterWebApp</artifactId>
@@ -50,10 +40,6 @@
 			<artifactId>jcl-over-slf4j</artifactId>
 			<version>${jcl-over-slf4j.version}</version>
 		</dependency>
-<<<<<<< HEAD
-=======
-
->>>>>>> 063a902 (asdfgh)
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
 			<artifactId>logback-classic</artifactId>
@@ -68,10 +54,7 @@
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
 			<version>${spring.version}</version>
-<<<<<<< HEAD
 			
-=======
->>>>>>> 063a902 (asdfgh)
 		</dependency>
 		<!-- jstl -->
 		<dependency>
@@ -83,11 +66,7 @@
 	<build>
 		<finalName>CounterWebApp</finalName>
 		<plugins>
-<<<<<<< HEAD
 		    <!-- Eclipse project -->
-=======
-		    <!-- Eclipse project please follow-->
->>>>>>> 063a902 (asdfgh)
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-eclipse-plugin</artifactId>
